@@ -1,0 +1,7 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Docs Repo Template'
+theme = "docdock"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
